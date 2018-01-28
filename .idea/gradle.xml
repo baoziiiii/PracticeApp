@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/3.1 Button and Dialog" />
             <option value="$PROJECT_DIR$/3.2 GridLayout" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/telephone" />
           </set>
         </option>
         <option name="myModules">
@@ -20,6 +21,7 @@
             <option value="$PROJECT_DIR$/3.1 Button and Dialog" />
             <option value="$PROJECT_DIR$/3.2 GridLayout" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/telephone" />
           </set>
         </option>
       </GradleProjectSettings>
