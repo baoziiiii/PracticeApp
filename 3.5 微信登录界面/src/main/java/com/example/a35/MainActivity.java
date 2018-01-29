@@ -1,6 +1,7 @@
 package com.example.a35;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -19,22 +20,27 @@ public class MainActivity extends AppCompatActivity{
     private EditText et_pass;
     private CheckBox cb_autologin;
     private Button bt_login;
+    private SharedPreferences sp;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        SaveData sd=new SaveData(this);
         et_name= (EditText) findViewById(R.id.editText);
         et_pass= (EditText) findViewById(R.id.editText2);
+        cb_autologin= (CheckBox) findViewById(R.id.checkBox);
+        bt_login= (Button) findViewById(R.id.button);
+        sp= getSharedPreferences("LoginInfo",MODE_PRIVATE);
+
+        SaveData sd=new SaveData(sp);
         String autosave[]=sd.getLoginInfo();
         if(Boolean.parseBoolean(autosave[0]))
             et_name.setText(autosave[1]);
-        cb_autologin= (CheckBox) findViewById(R.id.checkBox);
-        bt_login= (Button) findViewById(R.id.button);
+
         bt_login.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                SaveData sd= new SaveData(MainActivity.this);
+                SaveData sd= new SaveData(sp);
                 String username=et_name.getText().toString();
                 String password=et_pass.getText().toString();
                 if(TextUtils.isEmpty(username)||
