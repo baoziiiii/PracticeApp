@@ -11,8 +11,13 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/3.1 Button and Dialog" />
             <option value="$PROJECT_DIR$/3.2 GridLayout" />
+            <option value="$PROJECT_DIR$/3.3 telephone" />
+            <option value="$PROJECT_DIR$/3.4 跟踪触摸显示" />
+            <option value="$PROJECT_DIR$/3.5 微信登录界面" />
+            <option value="$PROJECT_DIR$/3.6 表格布局" />
+            <option value="$PROJECT_DIR$/3.7 网格布局" />
+            <option value="$PROJECT_DIR$/3.8 布局嵌套" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/telephone" />
           </set>
         </option>
         <option name="myModules">
@@ -20,8 +25,13 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/3.1 Button and Dialog" />
             <option value="$PROJECT_DIR$/3.2 GridLayout" />
+            <option value="$PROJECT_DIR$/3.3 telephone" />
+            <option value="$PROJECT_DIR$/3.4 跟踪触摸显示" />
+            <option value="$PROJECT_DIR$/3.5 微信登录界面" />
+            <option value="$PROJECT_DIR$/3.6 表格布局" />
+            <option value="$PROJECT_DIR$/3.7 网格布局" />
+            <option value="$PROJECT_DIR$/3.8 布局嵌套" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/telephone" />
           </set>
         </option>
       </GradleProjectSettings>

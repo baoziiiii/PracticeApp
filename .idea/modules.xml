@@ -3,10 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/3.1 Button and Dialog/3.1.iml" filepath="$PROJECT_DIR$/3.1 Button and Dialog/3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.1 Button and Dialog/3.1 Button and Dialog.iml" filepath="$PROJECT_DIR$/3.1 Button and Dialog/3.1 Button and Dialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.2 GridLayout/3.2 GridLayout.iml" filepath="$PROJECT_DIR$/3.2 GridLayout/3.2 GridLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.3 telephone/3.3 telephone.iml" filepath="$PROJECT_DIR$/3.3 telephone/3.3 telephone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.4 跟踪触摸显示/3.4 跟踪触摸显示.iml" filepath="$PROJECT_DIR$/3.4 跟踪触摸显示/3.4 跟踪触摸显示.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.5 微信登录界面/3.5 微信登录界面.iml" filepath="$PROJECT_DIR$/3.5 微信登录界面/3.5 微信登录界面.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.6 表格布局/3.6 表格布局.iml" filepath="$PROJECT_DIR$/3.6 表格布局/3.6 表格布局.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.6 表格布局/3.6表格布局.iml" filepath="$PROJECT_DIR$/3.6 表格布局/3.6表格布局.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.7 网格布局/3.7 网格布局.iml" filepath="$PROJECT_DIR$/3.7 网格布局/3.7 网格布局.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.8 布局嵌套/3.8 布局嵌套.iml" filepath="$PROJECT_DIR$/3.8 布局嵌套/3.8 布局嵌套.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication9.iml" filepath="$PROJECT_DIR$/MyApplication9.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/telephone/telephone.iml" filepath="$PROJECT_DIR$/telephone/telephone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.3 telephone/telephone.iml" filepath="$PROJECT_DIR$/3.3 telephone/telephone.iml" />
     </modules>
   </component>
 </project>
