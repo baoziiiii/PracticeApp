@@ -17,7 +17,11 @@
             <option value="$PROJECT_DIR$/3.6 表格布局" />
             <option value="$PROJECT_DIR$/3.7 网格布局" />
             <option value="$PROJECT_DIR$/3.8 布局嵌套" />
+            <option value="$PROJECT_DIR$/3.9 Xml序列化和pull解析" />
+            <option value="$PROJECT_DIR$/4.4 图片按钮" />
+            <option value="$PROJECT_DIR$/4.5 单选框" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/myapplication" />
           </set>
         </option>
         <option name="myModules">
@@ -31,7 +35,11 @@
             <option value="$PROJECT_DIR$/3.6 表格布局" />
             <option value="$PROJECT_DIR$/3.7 网格布局" />
             <option value="$PROJECT_DIR$/3.8 布局嵌套" />
+            <option value="$PROJECT_DIR$/3.9 Xml序列化和pull解析" />
+            <option value="$PROJECT_DIR$/4.4 图片按钮" />
+            <option value="$PROJECT_DIR$/4.5 单选框" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/myapplication" />
           </set>
         </option>
       </GradleProjectSettings>

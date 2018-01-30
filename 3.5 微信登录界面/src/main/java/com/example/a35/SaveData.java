@@ -27,7 +27,7 @@ public class SaveData {
         editor.putBoolean("saveflag", autosave);
         editor.putString("username", username);
         editor.putString("password", password);
-        editor.commit();
+        editor.commit();    //不要忘记调用commit提交。否则改动不会保存。
         return true;
     }
 
