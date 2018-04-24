@@ -1,12 +1,12 @@
 package com.example.myapplication;
 
-import android.support.v7.app.AppCompatActivity;
+import android.app.Activity;
 import android.os.Bundle;
 import android.view.ViewGroup;
 import android.widget.GridLayout;
 import android.widget.ImageView;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends Activity {
 
     private ImageView img[]=new ImageView[12];
     private int[] imgPath=new int[]{R.mipmap.img01,R.mipmap.img02,R.mipmap.img03,R.mipmap.img04,

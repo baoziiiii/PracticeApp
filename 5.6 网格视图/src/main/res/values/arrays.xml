@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pictures">
+        <item>@mipmap/img01</item>
+        <item>@mipmap/img02</item>
+        <item>@mipmap/img03</item>
+        <item>@mipmap/img04</item>
+        <item>@mipmap/img05</item>
+        <item>@mipmap/img06</item>
+        <item>@mipmap/img07</item>
+        <item>@mipmap/img08</item>
+        <item>@mipmap/img09</item>
+        <item>@mipmap/img10</item>
+        <item>@mipmap/img11</item>
+        <item>@mipmap/img12</item>
+        <item>@mipmap/qqxiang</item>
+    </array>
+</resources>

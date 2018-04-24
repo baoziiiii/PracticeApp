@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pictures">
+        <item>@mipmap/img01</item>
+        <item>@mipmap/img02</item>
+        <item>@mipmap/img03</item>
+        <item>@mipmap/img04</item>
+        <item>@mipmap/img05</item>
+        <item>@mipmap/img06</item>
+        <item>@mipmap/img07</item>
+        <item>@mipmap/img08</item>
+        <item>@mipmap/img09</item>
+    </array>
+    <string-array name="titles">
+        <item>刘一</item>
+        <item>陈二</item>
+        <item>张三</item>
+        <item>李四</item>
+        <item>王五</item>
+        <item>赵六</item>
+        <item>孙七</item>
+        <item>周八</item>
+        <item>吴九</item>
+    </string-array>
+</resources>

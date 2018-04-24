@@ -2,23 +2,68 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/3.1 Button and Dialog/3.1.iml" filepath="$PROJECT_DIR$/3.1 Button and Dialog/3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.1 数组资源/10.1 数组资源.iml" filepath="$PROJECT_DIR$/10.1 数组资源/10.1 数组资源.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.2 Values资源/10.2 values资源.iml" filepath="$PROJECT_DIR$/10.2 Values资源/10.2 values资源.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.3 多状态图片资源/10.3 多状态图片资源.iml" filepath="$PROJECT_DIR$/10.3 多状态图片资源/10.3 多状态图片资源.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.5 选项菜单/10.5 选项菜单.iml" filepath="$PROJECT_DIR$/10.5 选项菜单/10.5 选项菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.6 上下文菜单/10.6 上下文菜单.iml" filepath="$PROJECT_DIR$/10.6 上下文菜单/10.6 上下文菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.2 Notification/12.2 Notification.iml" filepath="$PROJECT_DIR$/12.2 Notification/12.2 Notification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.3 SendBroadCast/12.3 SendBroadCast.iml" filepath="$PROJECT_DIR$/12.3 SendBroadCast/12.3 SendBroadCast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.4broadcastreceive/12.4broadcastreceive.iml" filepath="$PROJECT_DIR$/12.4broadcastreceive/12.4broadcastreceive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12.5 BootReceiver/12.5 BootReceiver.iml" filepath="$PROJECT_DIR$/12.5 BootReceiver/12.5 BootReceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.1Canvas/13.1Canvas.iml" filepath="$PROJECT_DIR$/13.1Canvas/13.1Canvas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.5graffiti/13.5graffiti.iml" filepath="$PROJECT_DIR$/13.5graffiti/13.5graffiti.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.1 MediaPlayer/14.1 MediaPlayer.iml" filepath="$PROJECT_DIR$/14.1 MediaPlayer/14.1 MediaPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.2 SoundPool/14.2 SoundPool.iml" filepath="$PROJECT_DIR$/14.2 SoundPool/14.2 SoundPool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.3 VideoView/14.3 VideoView.iml" filepath="$PROJECT_DIR$/14.3 VideoView/14.3 VideoView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.4 SurfaceView and MediaPlayer/14.4 SurfaceView and MediaPlayer.iml" filepath="$PROJECT_DIR$/14.4 SurfaceView and MediaPlayer/14.4 SurfaceView and MediaPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.5 Camera/14.5 Camera.iml" filepath="$PROJECT_DIR$/14.5 Camera/14.5 Camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14.7 QR_SCAN/14.7 QR_SCAN.iml" filepath="$PROJECT_DIR$/14.7 QR_SCAN/14.7 QR_SCAN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.1 SQLite/15.1 SQLite.iml" filepath="$PROJECT_DIR$/15.1 SQLite/15.1 SQLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.6 ContentProvider/15.6 ContentProvider.iml" filepath="$PROJECT_DIR$/15.6 ContentProvider/15.6 ContentProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16.1 Handler Progress Bar/16.1 Handler Progress Bar.iml" filepath="$PROJECT_DIR$/16.1 Handler Progress Bar/16.1 Handler Progress Bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17.1 Service/17.1 Service.iml" filepath="$PROJECT_DIR$/17.1 Service/17.1 Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17.2 IntentService/17.2 IntentService.iml" filepath="$PROJECT_DIR$/17.2 IntentService/17.2 IntentService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17.3 Telephony Recorder/17.3 Telephony Recorder.iml" filepath="$PROJECT_DIR$/17.3 Telephony Recorder/17.3 Telephony Recorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17.4 Aidl/17.4 Aidl.iml" filepath="$PROJECT_DIR$/17.4 Aidl/17.4 Aidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17.4 Aidl Remote Call/17.4 Aidl Remote Call.iml" filepath="$PROJECT_DIR$/17.4 Aidl Remote Call/17.4 Aidl Remote Call.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.1 Button and Dialog/3.1 Button and Dialog.iml" filepath="$PROJECT_DIR$/3.1 Button and Dialog/3.1 Button and Dialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.2 GridLayout/3.2 GridLayout.iml" filepath="$PROJECT_DIR$/3.2 GridLayout/3.2 GridLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.3 telephone/3.3 telephone.iml" filepath="$PROJECT_DIR$/3.3 telephone/3.3 telephone.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.4 跟踪触摸显示/3.4 跟踪触摸显示.iml" filepath="$PROJECT_DIR$/3.4 跟踪触摸显示/3.4 跟踪触摸显示.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.5 微信登录界面/3.5 微信登录界面.iml" filepath="$PROJECT_DIR$/3.5 微信登录界面/3.5 微信登录界面.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.6 表格布局/3.6 表格布局.iml" filepath="$PROJECT_DIR$/3.6 表格布局/3.6 表格布局.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3.6 表格布局/3.6表格布局.iml" filepath="$PROJECT_DIR$/3.6 表格布局/3.6表格布局.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.7 网格布局/3.7 网格布局.iml" filepath="$PROJECT_DIR$/3.7 网格布局/3.7 网格布局.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.8 布局嵌套/3.8 布局嵌套.iml" filepath="$PROJECT_DIR$/3.8 布局嵌套/3.8 布局嵌套.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3.9 Xml序列化和pull解析/3.9 Xml序列化.iml" filepath="$PROJECT_DIR$/3.9 Xml序列化和pull解析/3.9 Xml序列化.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3.9 Xml序列化和pull解析/3.9 Xml序列化和pull解析.iml" filepath="$PROJECT_DIR$/3.9 Xml序列化和pull解析/3.9 Xml序列化和pull解析.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.4 图片按钮/4.4 图片按钮.iml" filepath="$PROJECT_DIR$/4.4 图片按钮/4.4 图片按钮.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.5 单选框/4.5 单选框.iml" filepath="$PROJECT_DIR$/4.5 单选框/4.5 单选框.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.6 复选/4.6 复选.iml" filepath="$PROJECT_DIR$/4.6 复选/4.6 复选.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.7 日期和时间/4.7 日期和时间.iml" filepath="$PROJECT_DIR$/4.7 日期和时间/4.7 日期和时间.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.1 进度条/5.1 进度条.iml" filepath="$PROJECT_DIR$/5.1 进度条/5.1 进度条.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.10 选项卡/5.10 选项卡.iml" filepath="$PROJECT_DIR$/5.10 选项卡/5.10 选项卡.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.2 拖动条和评分条/5.2 拖动条和评分条.iml" filepath="$PROJECT_DIR$/5.2 拖动条和评分条/5.2 拖动条和评分条.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.5 图片切换/5.5 图片切换.iml" filepath="$PROJECT_DIR$/5.5 图片切换/5.5 图片切换.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.6 网格视图/5.6 网格视图.iml" filepath="$PROJECT_DIR$/5.6 网格视图/5.6 网格视图.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.7 spinner下拉菜单/5.7 spinner下拉菜单.iml" filepath="$PROJECT_DIR$/5.7 spinner下拉菜单/5.7 spinner下拉菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5.8 列表视图/5.8 列表视图.iml" filepath="$PROJECT_DIR$/5.8 列表视图/5.8 列表视图.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.2 Bundle返回结果/6.2 Bundle返回结果.iml" filepath="$PROJECT_DIR$/6.2 Bundle返回结果/6.2 Bundle返回结果.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.4 Fragment微信界面/6.4 Fragment微信界面.iml" filepath="$PROJECT_DIR$/6.4 Fragment微信界面/6.4 Fragment微信界面.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.5 横竖屏动态加载fragment/6.5 横竖屏动态加载fragment.iml" filepath="$PROJECT_DIR$/6.5 横竖屏动态加载fragment/6.5 横竖屏动态加载fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6.6 Fragment通信/6.6 Fragment通信.iml" filepath="$PROJECT_DIR$/6.6 Fragment通信/6.6 Fragment通信.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.1 电话短信intent/7.1 电话短信intent.iml" filepath="$PROJECT_DIR$/7.1 电话短信intent/7.1 电话短信intent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7.3 Intent Filter/7.3 Intent Filter.iml" filepath="$PROJECT_DIR$/7.3 Intent Filter/7.3 Intent Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.1 回调按两次返回/9.1 回调按两次返回.iml" filepath="$PROJECT_DIR$/9.1 回调按两次返回/9.1 回调按两次返回.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.3 触摸事件/9.3 触摸事件.iml" filepath="$PROJECT_DIR$/9.3 触摸事件/9.3 触摸事件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9.5 Gesture/9.5 Gesture.iml" filepath="$PROJECT_DIR$/9.5 Gesture/9.5 Gesture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intent For Camera/Intent For Camera.iml" filepath="$PROJECT_DIR$/Intent For Camera/Intent For Camera.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication9.iml" filepath="$PROJECT_DIR$/MyApplication9.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3.3 telephone/telephone.iml" filepath="$PROJECT_DIR$/3.3 telephone/telephone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressDialog/ProgressDialog.iml" filepath="$PROJECT_DIR$/ProgressDialog/ProgressDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TabLayout/TabLayout.iml" filepath="$PROJECT_DIR$/TabLayout/TabLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ToolBar and SearchView/ToolBar and SearchView.iml" filepath="$PROJECT_DIR$/ToolBar and SearchView/ToolBar and SearchView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libzxing/libzxing.iml" filepath="$PROJECT_DIR$/libzxing/libzxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/recyclerview/recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/自定义控件/自定义控件.iml" filepath="$PROJECT_DIR$/自定义控件/自定义控件.iml" />
     </modules>
   </component>
 </project>

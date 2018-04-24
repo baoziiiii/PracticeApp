@@ -3,12 +3,36 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.10" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/10.1 数组资源" />
+            <option value="$PROJECT_DIR$/10.2 Values资源" />
+            <option value="$PROJECT_DIR$/10.3 多状态图片资源" />
+            <option value="$PROJECT_DIR$/10.5 选项菜单" />
+            <option value="$PROJECT_DIR$/10.6 上下文菜单" />
+            <option value="$PROJECT_DIR$/12.2 Notification" />
+            <option value="$PROJECT_DIR$/12.3 SendBroadCast" />
+            <option value="$PROJECT_DIR$/12.4broadcastreceive" />
+            <option value="$PROJECT_DIR$/12.5 BootReceiver" />
+            <option value="$PROJECT_DIR$/13.1Canvas" />
+            <option value="$PROJECT_DIR$/13.5graffiti" />
+            <option value="$PROJECT_DIR$/14.1 MediaPlayer" />
+            <option value="$PROJECT_DIR$/14.2 SoundPool" />
+            <option value="$PROJECT_DIR$/14.3 VideoView" />
+            <option value="$PROJECT_DIR$/14.4 SurfaceView and MediaPlayer" />
+            <option value="$PROJECT_DIR$/14.5 Camera" />
+            <option value="$PROJECT_DIR$/14.7 QR_SCAN" />
+            <option value="$PROJECT_DIR$/15.1 SQLite" />
+            <option value="$PROJECT_DIR$/15.6 ContentProvider" />
+            <option value="$PROJECT_DIR$/16.1 Handler Progress Bar" />
+            <option value="$PROJECT_DIR$/17.1 Service" />
+            <option value="$PROJECT_DIR$/17.2 IntentService" />
+            <option value="$PROJECT_DIR$/17.3 Telephony Recorder" />
+            <option value="$PROJECT_DIR$/17.4 Aidl" />
+            <option value="$PROJECT_DIR$/17.4 Aidl Remote Call" />
             <option value="$PROJECT_DIR$/3.1 Button and Dialog" />
             <option value="$PROJECT_DIR$/3.2 GridLayout" />
             <option value="$PROJECT_DIR$/3.3 telephone" />
@@ -20,28 +44,34 @@
             <option value="$PROJECT_DIR$/3.9 Xml序列化和pull解析" />
             <option value="$PROJECT_DIR$/4.4 图片按钮" />
             <option value="$PROJECT_DIR$/4.5 单选框" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/4.6 复选" />
+            <option value="$PROJECT_DIR$/4.7 日期和时间" />
+            <option value="$PROJECT_DIR$/5.1 进度条" />
+            <option value="$PROJECT_DIR$/5.10 选项卡" />
+            <option value="$PROJECT_DIR$/5.2 拖动条和评分条" />
+            <option value="$PROJECT_DIR$/5.5 图片切换" />
+            <option value="$PROJECT_DIR$/5.6 网格视图" />
+            <option value="$PROJECT_DIR$/5.7 spinner下拉菜单" />
+            <option value="$PROJECT_DIR$/5.8 列表视图" />
+            <option value="$PROJECT_DIR$/6.2 Bundle返回结果" />
+            <option value="$PROJECT_DIR$/6.4 Fragment微信界面" />
+            <option value="$PROJECT_DIR$/6.5 横竖屏动态加载fragment" />
+            <option value="$PROJECT_DIR$/6.6 Fragment通信" />
+            <option value="$PROJECT_DIR$/7.1 电话短信intent" />
+            <option value="$PROJECT_DIR$/7.3 Intent Filter" />
+            <option value="$PROJECT_DIR$/9.1 回调按两次返回" />
+            <option value="$PROJECT_DIR$/9.3 触摸事件" />
+            <option value="$PROJECT_DIR$/9.5 Gesture" />
+            <option value="$PROJECT_DIR$/Intent For Camera" />
+            <option value="$PROJECT_DIR$/ProgressDialog" />
+            <option value="$PROJECT_DIR$/TabLayout" />
+            <option value="$PROJECT_DIR$/ToolBar and SearchView" />
+            <option value="$PROJECT_DIR$/libzxing" />
+            <option value="$PROJECT_DIR$/recyclerview" />
+            <option value="$PROJECT_DIR$/自定义控件" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/3.1 Button and Dialog" />
-            <option value="$PROJECT_DIR$/3.2 GridLayout" />
-            <option value="$PROJECT_DIR$/3.3 telephone" />
-            <option value="$PROJECT_DIR$/3.4 跟踪触摸显示" />
-            <option value="$PROJECT_DIR$/3.5 微信登录界面" />
-            <option value="$PROJECT_DIR$/3.6 表格布局" />
-            <option value="$PROJECT_DIR$/3.7 网格布局" />
-            <option value="$PROJECT_DIR$/3.8 布局嵌套" />
-            <option value="$PROJECT_DIR$/3.9 Xml序列化和pull解析" />
-            <option value="$PROJECT_DIR$/4.4 图片按钮" />
-            <option value="$PROJECT_DIR$/4.5 单选框" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/myapplication" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
